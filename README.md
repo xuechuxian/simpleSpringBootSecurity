@@ -1,0 +1,2 @@
+# simpleSpringBoot
+这是一个简单的springboot纯净版，需自己更改配置数据源
