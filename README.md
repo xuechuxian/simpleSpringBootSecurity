@@ -1,2 +1,2 @@
 # simpleSpringBootSecurity
-一个简单的springboot集成springsecurity案例
+一个简单的springboot集成springsecurity案例，使用了mybatis-plus，数据库文件在resources/db下
